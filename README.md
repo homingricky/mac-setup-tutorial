@@ -1,4 +1,4 @@
-# mac-setup-tutorial
+# mac-python-setup-tutorial
 
 
 Install brew
